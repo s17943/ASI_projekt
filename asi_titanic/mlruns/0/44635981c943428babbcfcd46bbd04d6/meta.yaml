@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/asi_titanic/mlruns/0/44635981c943428babbcfcd46bbd04d6/artifacts
+end_time: 1685993466790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44635981c943428babbcfcd46bbd04d6
+run_name: fearless-hare-324
+run_uuid: 44635981c943428babbcfcd46bbd04d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685993462812
+status: 3
+tags: []
+user_id: Jasiek

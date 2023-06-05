@@ -1,0 +1,20 @@
+black~=22.0
+flake8>=3.7.9, <4.0
+ipython>=7.31.1, <8.0
+isort~=5.0
+jupyter
+jupyterlab
+kedro==0.18.0
+kedro[pandas,matplotlib]==0.18.0
+kedro-telemetry~=0.2.0
+nbstripout~=0.4
+pytest-cov~=3.0
+pytest-mock>=1.7.1, <2.0
+pytest~=6.2
+pandas~=1.5
+numpy~=1.23.3
+matplotlib~=3.6
+mlflow~=2.0
+scikit-learn~=1.1
+kedro-viz
+shap~=0.39
